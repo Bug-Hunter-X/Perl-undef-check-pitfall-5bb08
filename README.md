@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Perl when handling undefined variables.  The `bug.pl` file contains code that incorrectly checks for undef, while `bugSolution.pl` provides the correct approach.  The issue stems from Perl's loose type system and how undef is treated in comparisons.
